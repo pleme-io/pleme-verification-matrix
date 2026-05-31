@@ -1,0 +1,8 @@
+[package]
+name = "pleme-verification-matrix"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Verification-matrix test macros emitted from a tatara-rust-derive VerificationMatrixSpec (CLOSED-LOOP MASS-SYNTHESIS rule 1)."
+
+[lib]
